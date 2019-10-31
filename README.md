@@ -1,2 +1,1 @@
-# WSU-Projects
-Includes projects created and submitted for various Washington State University computer science courses.
+# CptS 223: Advanced Data Structures in C and C++
