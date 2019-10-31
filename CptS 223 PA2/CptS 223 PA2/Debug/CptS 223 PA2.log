@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\jackg\desktop\cpts 223\cpts 223 pa2\cpts 223 pa2\main.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\jackg\desktop\cpts 223\cpts 223 pa2\cpts 223 pa2\main.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\jackg\desktop\cpts 223\cpts 223 pa2\cpts 223 pa2\main.cpp(123): warning C4018: '<': signed/unsigned mismatch
+c:\users\jackg\desktop\cpts 223\cpts 223 pa2\cpts 223 pa2\main.cpp(126): warning C4018: '<': signed/unsigned mismatch
+c:\users\jackg\desktop\cpts 223\cpts 223 pa2\cpts 223 pa2\main.cpp(198): warning C4018: '<': signed/unsigned mismatch
+  CptS 223 PA2.vcxproj -> C:\Users\jackg\Desktop\CptS 223\CptS 223 PA2\Debug\CptS 223 PA2.exe
+  CptS 223 PA2.vcxproj -> C:\Users\jackg\Desktop\CptS 223\CptS 223 PA2\Debug\CptS 223 PA2.pdb (Full PDB)
