@@ -2,10 +2,10 @@
 
 Project Specification (https://www.eecs.wsu.edu/~cs360/proj19.html):
 
-A. OBJECTIVE:
+  A. OBJECTIVE:
    Design and implement a Linux-compatible EXT2 file system.
 
-B. SPECIFICATIONS:
+  B. SPECIFICATIONS:
 1. Files:
    Files are exactly the same as they are in the Linux file system, i.e.
    we shall use the same EXT2 file system data structures for
